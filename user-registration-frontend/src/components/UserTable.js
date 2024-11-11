@@ -1,4 +1,3 @@
-// UserTable.js
 import React from 'react';
 
 const UserTable = ({ users, onDelete, onEdit }) => {
